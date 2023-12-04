@@ -15,4 +15,6 @@ You can click the Preview link to take a look at your changes.
 <!-- <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=PotatoChunks&show_icons=true&theme=radical&hide=contribs,prs" />
 </div> -->
-![csdn](https://stats.justsong.cn/api/csdn?id=m0_62544473&lang=zh-CN&theme=dark)
+<div align="center">
+    <img  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoChunks&layout=compact](https://stats.justsong.cn/api/csdn?id=m0_62544473&lang=zh-CN&theme=dark)https://stats.justsong.cn/api/csdn?id=m0_62544473&lang=zh-CN&theme=dark" />
+</div>
