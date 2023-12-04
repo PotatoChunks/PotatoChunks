@@ -9,12 +9,14 @@
 PotatoChunks/PotatoChunks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoChunks&layout=compact" />
 </div>
-<!-- <div align="center">
+<!--
+ <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=PotatoChunks&show_icons=true&theme=radical&hide=contribs,prs" />
 </div> -->
 <div align="center">
-    <img  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoChunks&layout=compact](https://stats.justsong.cn/api/csdn?id=m0_62544473&lang=zh-CN&theme=dark)https://stats.justsong.cn/api/csdn?id=m0_62544473&lang=zh-CN&theme=dark" />
+    <img src="https://stats.justsong.cn/api/csdn?id=m0_62544473&lang=zh-CN&theme=dark" />
 </div>
