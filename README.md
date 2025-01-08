@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <a  href="https://potatochunks.github.io/" target="_blank"></a>
+    <a  href="https://potatochunks.github.io/" target="_blank">康康blog</a>
 </div>
 
 <div align="center">
